@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1659532864 source:c:\users\leand\onedrive\escritorio\tp4\redesparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1659532829 c:\users\leand\onedrive\escritorio\tp4\redesparcial\linkedlist.h
+
+1659529816 source:c:\users\leand\onedrive\escritorio\tp4\redesparcial\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"redes.h"
+	<time.h>
+	"controller.h"
+	"input.h"
+
+1659535577 c:\users\leand\onedrive\escritorio\tp4\redesparcial\redes.h
+
+1659535080 c:\users\leand\onedrive\escritorio\tp4\redesparcial\controller.h
+
+1659529836 c:\users\leand\onedrive\escritorio\tp4\redesparcial\input.h
+
+1659531446 source:c:\users\leand\onedrive\escritorio\tp4\redesparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"redes.h"
+	<time.h>
+	"controller.h"
+	"input.h"
+	"parser.h"
+
+1659531430 c:\users\leand\onedrive\escritorio\tp4\redesparcial\parser.h
+
+1659535966 source:c:\users\leand\onedrive\escritorio\tp4\redesparcial\redes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"redes.h"
+	<time.h>
+	"controller.h"
+
+1659536357 source:c:\users\leand\onedrive\escritorio\tp4\redesparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"redes.h"
+	<time.h>
+	"controller.h"
+	"parser.h"
+	"input.h"
+
+1659536273 source:c:\users\leand\onedrive\escritorio\tp4\redesparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"redes.h"
+	<time.h>
+	"controller.h"
+	"input.h"
+	"parser.h"
+
